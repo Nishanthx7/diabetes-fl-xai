@@ -1,9 +1,7 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-imbalanced-learn
+machine-learning
+federated-learning
 xgboost
 lightgbm
 shap
+healthcare-ai
+python
